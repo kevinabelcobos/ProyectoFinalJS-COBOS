@@ -1,0 +1,86 @@
+
+body {
+    background-image: url(/Img/masterchef.webp);
+    background-position: center, cover;
+    background-size: cover;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+  }
+
+  #esperoqueSalgabien {
+    opacity: 0;
+  }
+
+  /**************FORMULARIO*************/
+.div-form {
+    /* background-color: #F6DDCC ;
+    height: auto;
+    max-width: 50rem;
+    border-radius: 10px;
+    box-shadow: 0,0 1rem 0 (rgb(0, 0, 0, 2.));
+    backdrop-filter: opacity(50px);
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+     */
+     background-color: rgba(0, 0, 0, 0.5);
+     margin: auto auto;
+     padding: 40px;
+     border-radius: 5px;
+     box-shadow: 0 0 50px #fff8f8;
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     width: 500px;
+     height: 430px;
+  }
+  
+  .form-t {
+    margin: 5%;
+    color: #f5f4f4;
+    font-family: "Futura Bold Italic";
+    text-align: center;
+  }
+  
+  form label {
+    color: #000;
+    
+  }
+  
+  input {
+    width: 80%;
+    margin: 15px;
+    border-radius: 2%;
+  }
+  
+  textarea {
+    width: 88%;
+    border-radius: 3px;
+  }
+  
+  .btn-formulario {
+    background-color: #f7ff03;
+    width: 100px;
+    border: none;
+    border-radius: 3%;
+    
+  }
+  
+  .btn-submit {
+    background-color: #1d8e04;
+    color: #ececec;
+    align-self: flex-end;
+    cursor: pointer;
+  }
+  
+  .btn-reset {
+    background-color: #a01111;
+    color: #ececec;
+  }
