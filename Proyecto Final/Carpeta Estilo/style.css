@@ -16,18 +16,7 @@ body {
 
   /**************FORMULARIO*************/
 .div-form {
-    /* background-color: #F6DDCC ;
-    height: auto;
-    max-width: 50rem;
-    border-radius: 10px;
-    box-shadow: 0,0 1rem 0 (rgb(0, 0, 0, 2.));
-    backdrop-filter: opacity(50px);
-    padding: 50px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    color: white;
-     */
+   
      background-color: rgba(0, 0, 0, 0.5);
      margin: auto auto;
      padding: 40px;
